@@ -508,7 +508,7 @@ const DoctorSection = () => {
             <div className="relative w-72 h-72 sm:w-80 sm:h-80 mx-auto">
               <div className="absolute inset-0 bg-gradient-to-br from-dental-blue to-dental-teal rounded-full opacity-20 animate-pulse-glow" />
               <img
-                src="https://i.postimg.cc/GhnY23f2/616848658-26030932839857905-7451741448458966561-n.jpg "
+                src="https://i.postimg.cc/T3cjw7Fj/2023-11-08.jpg"
                 alt="Dr. Aditya Prakash Pathak"
                 className="w-full h-full object-cover rounded-full border-4 border-white shadow-2xl relative z-10"
               />
